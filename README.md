@@ -1,5 +1,6 @@
 # Valheim Installation Instructions
 Valheim ModPak
 
+** Place in Downloads folder **
 
-Download this zip file and unzip the folder. Copy the Valheim Plus folder into the Downloads directory and then run the modpak.exe which is in the Valheim Plus folder.
+Download this zip file and run the modpak-installer. The folder does not need to be unzippped. 
